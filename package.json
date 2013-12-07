@@ -1,0 +1,12 @@
+{
+  "name": "dateformatter",
+  "description": "Sample Library for formatting date",
+  "version": "0.0.1",
+  "author": {
+    "name": "Sinta"   
+  },
+  "main": "./lib/dateformatter.js",
+  "dependencies": {
+    
+  }
+}
